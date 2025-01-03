@@ -1,8 +1,8 @@
 
 ## Light-RAG Document Query System
 
-<img width="436" alt="image" src="https://github.com/user-attachments/assets/25fa5e41-feda-44c8-96e1-f7d5c4a23ec1" />
-<img width="443" alt="image" src="https://github.com/user-attachments/assets/dbf516da-3cc4-4cd4-a29a-fda35704182b" />
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/35d07665-dbc9-4155-83a9-e633f52905a3" />
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/fde7a158-0e92-4b97-9943-90afac525678" />
 
 This repository provides a **Document Query System** powered by **Light-RAG** (Lightweight Retrieval-Augmented Generation), Azure OpenAI APIs, and Streamlit. The application facilitates document ingestion and querying using advanced LLMs and embedding functions.
 
@@ -78,7 +78,7 @@ streamlit run app.py
    - Text files are directly processed.
    - Content is ingested into the Light-RAG system in the form of relationships in json format
    - Note : You can also store the generated graphml & json files in MongoDB Cluster
-   <img width="233" alt="image" src="https://github.com/user-attachments/assets/2eec9138-c6dd-4d8f-a6a8-c733c70deac9" />
+   <img width="232" alt="image" src="https://github.com/user-attachments/assets/381eb2cf-0529-4bde-9510-22a8e8cf05f5" />
 
 
 2. **Querying**:
